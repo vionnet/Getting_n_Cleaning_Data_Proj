@@ -2,6 +2,7 @@ Getting_n_Cleaning_Data_Proj
 ============================
 
 ##This is a repo for the Getting and Cleaning Data course project.
+####Words below are copied from the project requirements.
 
 The purpose of this project is to demonstrate your ability to collect, work
 with, and clean a data set. The goal is to prepare tidy data that can be used
