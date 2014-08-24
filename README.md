@@ -66,6 +66,12 @@ the average of each variable for each activity and each subject".
 * Created a txt file with write.table() using row.name=FALSE, and write it to
 the current directory.
 
+###Below are files in this repo:
+* README.md: current file.
+* run_analysis.R: the R program for this project.
+* CodeBook.md: file that describes variables, datasets, and transformations
+done in the R program.
+
 
 
 
