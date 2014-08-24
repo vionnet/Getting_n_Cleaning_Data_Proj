@@ -29,8 +29,8 @@ transformations or work that I performed to clean up the data
 ###Transformations
 |Transformation| Purpose|
 |--------------|--------|
-|Changing first and last column names of test_data| Column names more descriptive|
-|Changing first and last column names of train_data| Column names more descriptive|
+|Change first and last column names of test_data| Column names more descriptive|
+|Change first and last column names of train_data| Column names more descriptive|
 |Melt data| Subject and Test_No become IDs, and feature name become variables|
 |add V to feature number in the sub_feature data| Names become consistent with those in the mdata for merging|
 |merge mdata and sub_features| To get a subset of  mean and std features and their names|
