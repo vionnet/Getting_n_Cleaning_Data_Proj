@@ -71,6 +71,7 @@ the current directory.
 * run_analysis.R: the R program for this project.
 * CodeBook.md: file that describes variables, datasets, and transformations
 done in the R program.
+* tidy_data.txt: the required output file for this project.
 
 
 
